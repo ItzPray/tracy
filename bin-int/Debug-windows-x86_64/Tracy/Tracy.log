@@ -1,0 +1,20 @@
+﻿  TracyAlloc.cpp
+  TracyCallstack.cpp
+  TracyDxt1.cpp
+  TracyOverride.cpp
+  TracyProfiler.cpp
+C:\dev\Deep\Deep\vendor\tracy\public\client\TracyProfiler.cpp(3428,45): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+  TracySysPower.cpp
+  TracySysTime.cpp
+  TracySysTrace.cpp
+  tracy_rpmalloc.cpp
+  TracySocket.cpp
+  TracyStackFrames.cpp
+  TracySystem.cpp
+  tracy_lz4.cpp
+  tracy_lz4hc.cpp
+  alloc.cpp
+  sort.cpp
+  state.cpp
+  Generating Code...
+  Tracy.vcxproj -> C:\dev\Deep\Deep\vendor\tracy\bin\Debug-windows-x86_64\Tracy\Tracy.lib
