@@ -1,0 +1,17 @@
+C:\dev\Deep\Deep\vendor\tracy\public\client\TracyAlloc.cpp;C:\dev\Deep\Deep\vendor\tracy\bin-int\Debug-windows-x86_64\Tracy\TracyAlloc.obj
+C:\dev\Deep\Deep\vendor\tracy\public\client\TracyCallstack.cpp;C:\dev\Deep\Deep\vendor\tracy\bin-int\Debug-windows-x86_64\Tracy\TracyCallstack.obj
+C:\dev\Deep\Deep\vendor\tracy\public\client\TracyDxt1.cpp;C:\dev\Deep\Deep\vendor\tracy\bin-int\Debug-windows-x86_64\Tracy\TracyDxt1.obj
+C:\dev\Deep\Deep\vendor\tracy\public\client\TracyOverride.cpp;C:\dev\Deep\Deep\vendor\tracy\bin-int\Debug-windows-x86_64\Tracy\TracyOverride.obj
+C:\dev\Deep\Deep\vendor\tracy\public\client\TracyProfiler.cpp;C:\dev\Deep\Deep\vendor\tracy\bin-int\Debug-windows-x86_64\Tracy\TracyProfiler.obj
+C:\dev\Deep\Deep\vendor\tracy\public\client\TracySysPower.cpp;C:\dev\Deep\Deep\vendor\tracy\bin-int\Debug-windows-x86_64\Tracy\TracySysPower.obj
+C:\dev\Deep\Deep\vendor\tracy\public\client\TracySysTime.cpp;C:\dev\Deep\Deep\vendor\tracy\bin-int\Debug-windows-x86_64\Tracy\TracySysTime.obj
+C:\dev\Deep\Deep\vendor\tracy\public\client\TracySysTrace.cpp;C:\dev\Deep\Deep\vendor\tracy\bin-int\Debug-windows-x86_64\Tracy\TracySysTrace.obj
+C:\dev\Deep\Deep\vendor\tracy\public\client\tracy_rpmalloc.cpp;C:\dev\Deep\Deep\vendor\tracy\bin-int\Debug-windows-x86_64\Tracy\tracy_rpmalloc.obj
+C:\dev\Deep\Deep\vendor\tracy\public\common\TracySocket.cpp;C:\dev\Deep\Deep\vendor\tracy\bin-int\Debug-windows-x86_64\Tracy\TracySocket.obj
+C:\dev\Deep\Deep\vendor\tracy\public\common\TracyStackFrames.cpp;C:\dev\Deep\Deep\vendor\tracy\bin-int\Debug-windows-x86_64\Tracy\TracyStackFrames.obj
+C:\dev\Deep\Deep\vendor\tracy\public\common\TracySystem.cpp;C:\dev\Deep\Deep\vendor\tracy\bin-int\Debug-windows-x86_64\Tracy\TracySystem.obj
+C:\dev\Deep\Deep\vendor\tracy\public\common\tracy_lz4.cpp;C:\dev\Deep\Deep\vendor\tracy\bin-int\Debug-windows-x86_64\Tracy\tracy_lz4.obj
+C:\dev\Deep\Deep\vendor\tracy\public\common\tracy_lz4hc.cpp;C:\dev\Deep\Deep\vendor\tracy\bin-int\Debug-windows-x86_64\Tracy\tracy_lz4hc.obj
+C:\dev\Deep\Deep\vendor\tracy\public\libbacktrace\alloc.cpp;C:\dev\Deep\Deep\vendor\tracy\bin-int\Debug-windows-x86_64\Tracy\alloc.obj
+C:\dev\Deep\Deep\vendor\tracy\public\libbacktrace\sort.cpp;C:\dev\Deep\Deep\vendor\tracy\bin-int\Debug-windows-x86_64\Tracy\sort.obj
+C:\dev\Deep\Deep\vendor\tracy\public\libbacktrace\state.cpp;C:\dev\Deep\Deep\vendor\tracy\bin-int\Debug-windows-x86_64\Tracy\state.obj
