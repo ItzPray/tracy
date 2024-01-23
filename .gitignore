@@ -46,3 +46,7 @@ profiler/build/wasm/Tracy-debug.*
 profiler/build/wasm/embed.tracy
 *.log
 *.txt
+*.tlog
+*.lib
+*.recipe
+*.pdb
